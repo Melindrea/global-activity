@@ -1,5 +1,7 @@
 <?php
 
+//Class DeviantArtAdapter, allowing to loadAll, load using a "filter" (ex typ, kategori, användare)
+//ladda en specifik (IE oEmbed)
 //Function to simulate the WP function of the same name, remove when going a bit
 //more live...
 function wp_remote_get($url=null, $args=null)
